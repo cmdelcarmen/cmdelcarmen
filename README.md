@@ -2,7 +2,7 @@
 	Kon'nichiwa! 😊i  (&#x1F499; !!
 </p>
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="500" height="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
 </p>
 
 Pinned Repositories
