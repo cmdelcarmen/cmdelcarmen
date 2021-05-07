@@ -1,11 +1,11 @@
 <p align="center">
-	Kon'nichiwa! 😊i  (&#x1F499; !!
+	Kon'nichiwa! 😊i &#x1F499; !!
 </p>
 <p align="center">
-  <img width="500" height="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+  <img width="700" height="500" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
 </p>
 
-Pinned Repositories
+# Pinned Repositories
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
