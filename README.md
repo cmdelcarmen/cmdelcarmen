@@ -1,6 +1,6 @@
 <p align="center">
-	Kon'nichiwa! 😊
-
+	<font size="+2">Kon'nichiwa! 😊
+	</font>
 ![alt text](https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif)
 </p>
 
