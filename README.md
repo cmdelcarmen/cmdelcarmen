@@ -8,6 +8,6 @@
 
 | Repository | Description |
 | --- | --- |
-| holbertonschool-higher_level_programming | Description |
-| holbertonschool-low_level_programming | Description |
-| holbertonschool-system_engineering-devops | Description |
+| [💖 holbertonschool-higher_level_programming](https://github.com/cmdelcarmen/holbertonschool-higher_level_programming) | Description |
+| [💝 holbertonschool-low_level_programming](https://github.com/cmdelcarmen/holbertonschool-low_level_programming) | Description |
+| [💗 holbertonschool-system_engineering-devops](https://github.com/cmdelcarmen/holberton-system_engineering-devops) | Description |
