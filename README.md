@@ -1,3 +1,6 @@
+div.a {
+	  font-size: 15px;
+}
 <div align="center">Kon'nichiwa!😊 </div>
 
 <p align="center">
@@ -5,7 +8,7 @@
 </p>
 
 # Pinned Repositories
-| Command | Description |
+| Repository | Description |
 | --- | --- |
 | holbertonschool-higher_level_programming | Description |
-| https://github.com/cmdelcarmen/holbertonschool-low_level_programming | Description |
+| holbertonschool-low_level_programming | Description |
