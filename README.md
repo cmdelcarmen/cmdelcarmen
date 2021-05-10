@@ -1,8 +1,5 @@
 <h1 align="center">Kon'nichiwa!😊 </h1>
 
-<p align="center">
-  <img width="700" height="350" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
-</p>
 
 <h3 align="center">Pinned Repositories</h3>
 
