@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cmdelcarmen
-# monty
-=======
 <h2 align="center">Kon'nichiwa!😊 </h2>
 
 
@@ -52,4 +48,3 @@
 <br>
 
 I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com) or via [Linked in](https://www.linkedin.com/in/caroline-delcarmen-8abb25205/).
->>>>>>> 05957d5e50486aff00d5a66430b04159d7898e97
