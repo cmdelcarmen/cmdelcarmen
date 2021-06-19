@@ -42,7 +42,7 @@
 |[printf](https://github.com/cmdelcarmen/printf)| The program is designed to mimic the printf function in C.|
 |[simple_shell](https://github.com/cmdelcarmen/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/dhreyes/monty) | Stacks, Queues - LIFO, FIFO |
-|[Sorting Algorithms](https://github.com/cmdelcarmen/sorting_algorithms)| Sorting algorith & Big O notation |
+|[Sorting Algorithms](https://github.com/cmdelcarmen/sorting_algorithms)| Sorting algorithms & Big O notation |
 <br>
 <br>
 
