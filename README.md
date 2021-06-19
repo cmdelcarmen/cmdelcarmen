@@ -7,7 +7,6 @@
 | --- | --- |
 | [💖 holbertonschool-higher_level_programming](https://github.com/cmdelcarmen/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment |
 | [💝 holbertonschool-low_level_programming](https://github.com/cmdelcarmen/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, variadic functions, memory management, heap/stack, static/dynamic libraries |
-| [💗 holbertonschool-system_engineering-devops](https://github.com/cmdelcarmen/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls |
 
 <h3>Languages and tools that I have been learning:</h3>
 
@@ -42,6 +41,7 @@
 | --- | --- |
 |[printf](https://github.com/cmdelcarmen/printf)| The program is designed to mimic the printf function in C.|
 |[simple_shell](https://github.com/cmdelcarmen/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
+|[Monty](https://github.com/dhreyes/monty) | Stacks, Queues - LIFO, FIFO |
 
 <br>
 <br>
