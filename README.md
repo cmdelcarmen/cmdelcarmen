@@ -48,15 +48,7 @@
 <br>
 <br>
 
-<a href="#" onclick='window.open("https://www.freecodecamp.org/cmdelcarmen");return false;'></a>
-
-<button onclick="myFunction()">freeCodeCamp account</button>
-
-<script>
-function myFunction() {
-  location.replace("https://www.w3schools.com")
-}
-</script>
+<a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank">freeCodeCamp profile</a>
  
 
 I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com) or via [Linked in](https://www.linkedin.com/in/caroline-delcarmen-8abb25205/).
