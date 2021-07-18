@@ -48,6 +48,6 @@
 <br>
 <br>
 
-<a href="#" onclick='window.open("https://www.freecodecamp.org/cmdelcarmen");return false;'>freeCodeCamp profile</a>
+<a href="#" onclick='window.open("https://www.freecodecamp.org/cmdelcarmen");return false;'></a>
 
 I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com) or via [Linked in](https://www.linkedin.com/in/caroline-delcarmen-8abb25205/).
