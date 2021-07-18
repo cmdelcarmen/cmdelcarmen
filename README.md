@@ -49,6 +49,6 @@
 <br>
 
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank">freeCodeCamp profile</a>
- 
+<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">Linked in profile</a>
 
-I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com) or via [Linked in](https://www.linkedin.com/in/caroline-delcarmen-8abb25205/).
+I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com).
