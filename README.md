@@ -48,7 +48,7 @@
 <br>
 <br>
 
-<h4>Profiles</h4><br>
+<h4>Profiles</h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank">freeCodeCamp</a><br>
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">Linked in</a><br>  
 <br>
