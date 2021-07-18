@@ -56,3 +56,4 @@
 <br>
 
 I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com).
+<a href="https://docs.google.com/document/d/1IESYoWk8Q9aX1Wy83tnUDJ4JtBCw0hVzGSzyaR7lOAU/edit" target="_blank">Resume</a><br>
