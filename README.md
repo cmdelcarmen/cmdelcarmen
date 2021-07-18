@@ -46,8 +46,6 @@
 |[Sorting Algorithms](https://github.com/cmdelcarmen/sorting_algorithms)| Sorting algorithms & Big O notation |
 |[AirBnB - The Console](https://github.com/cmdelcarmen/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
 <br>
-<br>
-
 <h4>Profiles</h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank">freeCodeCamp</a><br>
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">Linked in</a><br> 
