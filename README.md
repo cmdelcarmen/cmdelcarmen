@@ -49,10 +49,8 @@
 <br>
 <h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">Linked in</a> 
+<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank"></a> 
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a> 
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
 <br>
-
-<a href="https://docs.google.com/document/d/1IESYoWk8Q9aX1Wy83tnUDJ4JtBCw0hVzGSzyaR7lOAU/edit" target="_blank">Resume</a><br>
 I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com).
