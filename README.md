@@ -45,7 +45,7 @@
 |[Monty](https://github.com/dhreyes/monty) | Stacks, Queues - LIFO, FIFO |
 |[Sorting Algorithms](https://github.com/cmdelcarmen/sorting_algorithms)| Sorting algorithms & Big O notation |
 |[AirBnB - The Console](https://github.com/cmdelcarmen/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
-|[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| <description >|
+|[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| 23 tasks focused on binary trees|
 <br>
 <h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
