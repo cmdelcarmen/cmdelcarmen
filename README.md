@@ -17,10 +17,10 @@
 <a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
-<a href="https://github.com/cmdelcarmen">
+<a href="https://github.com/holbertonschool-higher_level_programming">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
-<a href="https://github.com/cmdelcarmen">
+<a href="https://github.com/holbertonschool-higher_level_programming">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
 <a href="https://github.com/cmdelcarmen">
