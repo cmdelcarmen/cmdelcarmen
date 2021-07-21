@@ -47,9 +47,9 @@
 |[AirBnB - The Console](https://github.com/cmdelcarmen/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
 |[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| <description >|
 <br>
-<h4>Profiles</h4>
+<h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">Linked in</a><br> 
+<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">Linked in</a> 
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a> 
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
 <br>
