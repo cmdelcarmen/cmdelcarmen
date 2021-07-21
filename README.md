@@ -23,13 +23,13 @@
 <a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
-<a href="https://github.com/cmdelcarmen">
+<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
-<a href="https://github.com/cmdelcarmen">
+<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
-<a href="https://github.com/cmdelcarmen">
+<a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
 <a href="https://github.com/cmdelcarmen/holberton-system_engineering-devops">
