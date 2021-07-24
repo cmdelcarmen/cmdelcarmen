@@ -36,9 +36,7 @@
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 </a>
 <br><br>
-<h3><br>Major projects worked on at Holberton School in order:</h3>  
-<br>
-<br>
+<h3><br>Major projects worked on at Holberton School in order:</h3> 
 
 | Project name | Description |
 | --- | --- |
