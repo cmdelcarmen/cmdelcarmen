@@ -38,7 +38,7 @@
 <br><br>
 <h3><br>Major projects worked on in school in order:</h3> 
 
-| Project name | Description |
+#| Project name | Description |
 | --- | --- |
 |[Printf](https://github.com/cmdelcarmen/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/cmdelcarmen/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
