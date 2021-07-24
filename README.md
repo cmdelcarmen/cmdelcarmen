@@ -37,6 +37,7 @@
 </a>
 <br><br>
 <h3><br>Major projects worked on at Holberton School in order:</h3>
+<br>
 
 | Project name | Description |
 | --- | --- |
