@@ -54,4 +54,3 @@
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
 <br>
 
-I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com).
