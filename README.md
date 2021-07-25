@@ -36,8 +36,8 @@
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 </a>
 <br><br>
-<h3><br>Major projects worked on at Holberton School:</h3>
-
+<h3><br>Major projects worked on in school in order:</h3> 
+  
 | Project name | Description |
 | --- | --- |
 |[Printf](https://github.com/cmdelcarmen/printf)| The program is designed to mimic the printf function in C.|
@@ -45,7 +45,7 @@
 |[Monty](https://github.com/dhreyes/monty) | Stacks, Queues - LIFO, FIFO |
 |[Sorting Algorithms](https://github.com/cmdelcarmen/sorting_algorithms)| Sorting algorithms & Big O notation |
 |[AirBnB - The Console](https://github.com/cmdelcarmen/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
-|[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| 23 tasks focused on binary trees|
+|[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| 16 tasks focused on binary trees|
 <br>
 <h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
@@ -53,4 +53,4 @@
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a> 
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
 <br>
-I can be reached via email at [2720@holbertonschool.com](mailto:2720@holbertonschool.com).
+
