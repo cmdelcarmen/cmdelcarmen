@@ -52,5 +52,3 @@
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank"></a> 
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a> 
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
-<br>
-
