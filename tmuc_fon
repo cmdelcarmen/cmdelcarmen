@@ -11,7 +11,10 @@ set -g pane-base-index 1
 
 
 # Using the mouse to switch panes
-set -g mouse on
+set -g mode-mouse on
+set -g mouse-resize-pane on
+set -g mouse-select-pane on
+set -g mouse-select-window on
 
 # panes: window splitting 
 bind-key -n F2 split-window -h
