@@ -5,6 +5,9 @@
 <p align="center">
  <img align='right' src="https://media.giphy.com/media/zKgyrMvWVUJu9SSHfB/giphy.gif?cid=790b76114ac591aeaeda09679f361e8179f636f0553aa8b1&rid=giphy.gif&ct=s" width="230">
   
+<p align="center">
+ <img align='right' src="https://media.giphy.com/media/zKgyrMvWVUJu9SSHfB/giphy.gif?cid=790b76114ac591aeaeda09679f361e8179f636f0553aa8b1&rid=giphy.gif&ct=s" width="230">
+ 
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
 </p>
 <h4>Ei has dolorum oportere, ut ullum putent nam. Est justo atqui intellegebat no, in eam amet omittantur. Quo ex veniam propriae detraxit, eam eruditi adipiscing id, nonumes fuisset voluptaria ea eum. No mel cibo dissentiunt. Usu an oratio deleniti, ius libris ornatus corrumpit ei. </h4>
