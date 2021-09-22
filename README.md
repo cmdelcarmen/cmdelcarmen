@@ -63,7 +63,7 @@
 
 <br>
 
-![My's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=cmdelcarmen&show_icons=true&theme=dark)
+![My's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=cmdelcarmen&show_icons=true&theme=)
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=cmdelcarmen&layout=compact)](https://github.com/cmdelcarmen)
 
 <br>
