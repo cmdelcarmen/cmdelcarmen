@@ -6,7 +6,7 @@
 <p align="center">
  <img align='right' src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif?cid=790b7611f2102d61276fcc0b30df06ecad7d0b5ecb7d3a2f&rid=giphy.gif&ct=g" width="230">
  
-<img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+painting+%E2%99%A5%EF%B8%8F">
 </p>
 <h4>Hello, welcome to my github! :D I am currently focusing on Java, OOP, data structures in C, Python/Flask, JSON, SQL, and APIs. I also do a lot of bash scripting, and recently did a lot of work with servers. I love music and science. </h4>
 
