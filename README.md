@@ -10,7 +10,7 @@
  
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
 </p>
-<h4>Ei has dolorum oportere, ut ullum putent nam. Est justo atqui intellegebat no, in eam amet omittantur. Quo ex veniam propriae detraxit, eam eruditi adipiscing id, nonumes fuisset voluptaria ea eum. No mel cibo dissentiunt. Usu an oratio deleniti, ius libris ornatus corrumpit ei. </h4>
+<h4>Hello, welcome to my github! :D You can reach me personally via email at DelCarmenCaroline@gmail.com. I am currently focusing on Java, OOP, C, Python, JSON, SQL, and APIs. I also do a lot of bash scripting, and recently did a lot of work with servers. </h4>
 <br><br>
 <h3 align="center">Pinned Repositories</h3>
 
