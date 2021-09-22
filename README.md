@@ -63,6 +63,9 @@
 <br>
 
 ![My's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=cmdelcarmen&show_icons=true&theme=dark)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=cmdelcarmen&layout=compact)](https://github.com/cmdelcarmen)
+
+<br>
 
 <h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
