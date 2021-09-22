@@ -10,7 +10,7 @@
 </p>
 <h4>Hello, welcome to my github! :D I am currently focusing on Java, OOP, data structures in C, Python/Flask, JSON, SQL, and APIs. I also do a lot of bash scripting, and recently did a lot of work with servers. I love music and science. </h4>
 
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:delcarmencaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/cmdelcarmen/cmdelcarmen/blob/main/Resume"><img src="https://img.shields.io/badge/RESUME-FF69B4?style=for-the-badge"></a>
 <a href="https://cmdelcarmen.medium.com/"><img src="https://img.shields.io/badge/BLOGS-brightgreen?style=for-the-badge"></a>
