@@ -1,6 +1,6 @@
 <h2 align="center"> 🥰 </h2>
 
-<img align='right' src="https://media.giphy.com/media/zKgyrMvWVUJu9SSHfB/giphy.gif?cid=790b76114ac591aeaeda09679f361e8179f636f0553aa8b1&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif?cid=790b76118a01dbe4b73a29784733ef64636225393d816d7b&rid=giphy.gif&ct=s" width="230">
 
 <p align="center">
  <img align='right' src="https://media.giphy.com/media/zKgyrMvWVUJu9SSHfB/giphy.gif?cid=790b76114ac591aeaeda09679f361e8179f636f0553aa8b1&rid=giphy.gif&ct=s" width="230">
