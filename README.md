@@ -1,5 +1,3 @@
-<h2 align="center"> 🥰 </h2>
-
 <img align='right' src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif?cid=790b76118a01dbe4b73a29784733ef64636225393d816d7b&rid=giphy.gif&ct=s" width="230">
 
 <p align="center">
