@@ -9,7 +9,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
 </p>
 <h4>Hello, welcome to my github! :D I am currently focusing on Java, OOP, data structures in C, Python/Flask, JSON, SQL, and APIs. I also do a lot of bash scripting, and recently did a lot of work with servers. I love music and science. </h4>
-<br><br>
+
+<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:delcarmencaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/cmdelcarmen/cmdelcarmen/blob/main/Resume"><img src="https://img.shields.io/badge/RESUME-FF69B4?style=for-the-badge"></a>
+<a href="https://cmdelcarmen.medium.com/"><img src="https://img.shields.io/badge/BLOGS-brightgreen?style=for-the-badge"></a>
+<br>
 <h3 align="center">Pinned Repositories</h3>
 
 | Repository | Description |
@@ -55,17 +60,10 @@
 |[AirBnB clone - Web framework](https://github.com/cmdelcarmen/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
 |[AirBnB clone - RESTful API](https://github.com/cmdelcarmen/AirBnB_clone_v3)| APIs, REST, CORS, HTTP|
 
-<br><br>
+<br>
 
 ![My's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=cmdelcarmen&show_icons=true&theme=dark)
 
-<br>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:delcarmencaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/cmdelcarmen/cmdelcarmen/blob/main/Resume"><img src="https://img.shields.io/badge/RESUME-FF69B4?style=for-the-badge"></a>
-<a href="https://cmdelcarmen.medium.com/"><img src="https://img.shields.io/badge/BLOGS-brightgreen?style=for-the-badge"></a>
-
-<br>
 <h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank"></a> 
