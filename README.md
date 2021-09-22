@@ -10,7 +10,7 @@
  
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
 </p>
-<h4>Hello, welcome to my github! :D You can reach me personally via email at DelCarmenCaroline@gmail.com. I am currently focusing on Java, OOP, data structures in C, Python/Flask, JSON, SQL, and APIs. I also do a lot of bash scripting, and recently did a lot of work with servers. I love music and science. </h4>
+<h4>Hello, welcome to my github! :D I am currently focusing on Java, OOP, data structures in C, Python/Flask, JSON, SQL, and APIs. I also do a lot of bash scripting, and recently did a lot of work with servers. I love music and science. </h4>
 <br><br>
 <h3 align="center">Pinned Repositories</h3>
 
@@ -56,6 +56,14 @@
 |[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| 16 tasks focused on binary trees|
 |[AirBnB clone - Web framework](https://github.com/cmdelcarmen/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
 |[AirBnB clone - RESTful API](https://github.com/cmdelcarmen/AirBnB_clone_v3)| APIs, REST, CORS, HTTP|
+
+<br><br>
+<br>
+
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br>
+<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:delcarmencaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br>
 <h4></h4>
