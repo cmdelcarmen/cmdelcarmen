@@ -1,5 +1,9 @@
 <h2 align="center"> 🥰 </h2>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
+</p>
+
 <h3 align="center">Pinned Repositories</h3>
 
 | Repository | Description |
