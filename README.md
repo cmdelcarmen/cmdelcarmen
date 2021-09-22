@@ -11,28 +11,25 @@
 
 <h3>Languages and tools that I have been learning:</h3>
 
-<a href="https://github.com/cmdelcarmen/holbertonschool-low_level_programming">
+<a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 </a>
-<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
+<a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
-<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
-  <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<a href="https://github.com/cmdelcarmen/">
+  <img align="left" alt="Java" width="50px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1" />
 </a>
-<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
-  <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
+<a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
-<a href="https://github.com/cmdelcarmen/holbertonschool-higher_level_programming">
+<a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
 <a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
-<a href="https://github.com/cmdelcarmen/holberton-system_engineering-devops">
+<a href="https://github.com/cmdelcarmen/">
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 </a>
 <br><br>
