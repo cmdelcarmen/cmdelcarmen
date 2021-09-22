@@ -47,7 +47,7 @@
 |[AirBnB - The Console](https://github.com/cmdelcarmen/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
 |[Binary Trees](https://github.com/cmdelcarmen/binary_trees)| 16 tasks focused on binary trees|
 |[AirBnB clone - Web framework](https://github.com/cmdelcarmen/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
-|[AirBnB clone - RESTful API](https://github.com/cmdelcarmen/AirBnB_clone_v3)| REST API|
+|[AirBnB clone - RESTful API](https://github.com/cmdelcarmen/AirBnB_clone_v3)| APIs, REST, CORS, HTTP|
 
 <br>
 <h4></h4>
