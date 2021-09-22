@@ -3,6 +3,8 @@
 
 <h3 align="center">Pinned Repositories</h3>
 
+**These three repos are where I uploaded answers to coding questions at Holberton Programming School, since all of our work is corrected using github.**
+
 | Repository | Description |
 | --- | --- |
 | [ holbertonschool-higher_level_programming](https://github.com/cmdelcarmen/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON and Unit Testing |
