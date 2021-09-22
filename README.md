@@ -56,7 +56,6 @@
 |[AirBnB clone - RESTful API](https://github.com/cmdelcarmen/AirBnB_clone_v3)| APIs, REST, CORS, HTTP|
 
 <br><br>
-<br>
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
@@ -66,7 +65,7 @@
 <br>
 <h4></h4>
 <a href="https://www.freecodecamp.org/cmdelcarmen" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank">/a> 
+<a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank"></a> 
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a> 
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
 
