@@ -1,7 +1,7 @@
 <h2 align="center"> 🥰 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
 </p>
 
 <h3 align="center">Pinned Repositories</h3>
@@ -55,3 +55,7 @@
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank"></a> 
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a> 
 <a href="https://www.hackerrank.com/cmdelcarmen?hr_r=1" target="_blank"></a>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Thank+you+for+visiting!;Have+a+nice+day.">
+</p>
