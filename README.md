@@ -6,7 +6,7 @@
  <img align='right' src="https://media.giphy.com/media/zKgyrMvWVUJu9SSHfB/giphy.gif?cid=790b76114ac591aeaeda09679f361e8179f636f0553aa8b1&rid=giphy.gif&ct=s" width="230">
   
 <p align="center">
- <img align='right' src="https://media.giphy.com/media/zKgyrMvWVUJu9SSHfB/giphy.gif?cid=790b76114ac591aeaeda09679f361e8179f636f0553aa8b1&rid=giphy.gif&ct=s" width="230">
+ <img align='right' src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif?cid=790b7611f2102d61276fcc0b30df06ecad7d0b5ecb7d3a2f&rid=giphy.gif&ct=g" width="230">
  
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+video+games+%E2%99%A5%EF%B8%8F">
 </p>
