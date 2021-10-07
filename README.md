@@ -60,6 +60,7 @@
 |[AirBnB clone - Web framework](https://github.com/cmdelcarmen/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
 |[Mastermind](https://github.com/cmdelcarmen/mastermind-hack-day)| Command-line version of Mastermind written in Java.|
 |[AirBnB clone - RESTful API](https://github.com/cmdelcarmen/AirBnB_clone_v3)| APIs, RESTful API, CORS, HTTP|
+|[Holberton Checker's](https://github.com/cmdelcarmen/hbt_checkers-hack-day)| Program connects to Holberton's intranet's API and allows users to run Holberton code checkers from the command-line.|
 
 <br>
 
