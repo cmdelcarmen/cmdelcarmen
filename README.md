@@ -8,7 +8,7 @@
  
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+painting+%E2%99%A5%EF%B8%8F">
 </p>
-<h4>Hello, welcome to my github! :D I am currently focusing on OOP, data structures, Python, ReactJS, MySQL/NoSQL, and APIs. I've also done a lot of bash scripting. I love music and science. </h4>
+<h4>Hello, welcome to my github! :D I am currently focusing on OOP, data structures, Python, ReactJS, MySQL/NoSQL, and APIs.</h4>
 
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:delcarmencaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
