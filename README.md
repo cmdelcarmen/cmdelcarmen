@@ -8,7 +8,7 @@
  
 <img src="https://readme-typing-svg.herokuapp.com?color=F7679E&lines=Passionate+learner+%26+programmer.;Problem+solver+%26+goal+setter.;Comedy%2C+anime%2C+painting+%E2%99%A5%EF%B8%8F">
 </p>
-<h4>Hello, welcome to my github! :D I am currently focusing on OOP, Python, ReactJS/VueJS, MySQL/NoSQL, and APIs.</h4>
+<h4>Hello, welcome to my github! :D</h4>
 
 <a href="mailto:delcarmencaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/cmdelcarmen/cmdelcarmen/blob/main/Caroline%20D.%20Resume.pdf"><img src="https://img.shields.io/badge/RESUME-FF69B4?style=for-the-badge"></a>
